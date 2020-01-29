@@ -32,11 +32,11 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I had minor issues using the design tab of Android Studio. To avoid not having attributes on my RecyclerView and my objects not having the same attributes shown in the tutorial, I just edited the attributes via text in the ['activity_main.xml'](app/src/main/res/layout/activity_main.xml) and ['activity_edit.xml'](app/src/main/res/layout/activity_edit.xml) files. I also had problems share through git using the VCS menu.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2020 Github: @ftripjr 
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
